@@ -1,13 +1,12 @@
 ---
-title: Committee
+title: Become a Member Today
 feature_text: |
- ### Our Committee Members
+ ### Join Us
 feature_image: "https://picsum.photos/2560/600?image=873"
 # excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
 
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
