@@ -1,9 +1,9 @@
 ---
-title: Welcome to the Amoral Sciences CluB!
+title: Welcome to the Amoral Sciences Club!
 feature_text: |
   ## Amoral Sciences Club
   The undergraduate philosophy club at Cambridge
-feature_image: "/assets/schoolofathens.jpg"
+feature_image: "/assets/schoolofathens.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
