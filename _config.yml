@@ -67,7 +67,7 @@ collections:
     output: true
     description: "Check out our recent events!" # The post list page content
     feature_text: |
-      All are welcome
+      ## All are welcome
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
