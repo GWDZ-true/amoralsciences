@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 markdown: kramdown
 mathjax: true
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Amoral Sciences Club" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/asclogo.svg" # Site logo, also used in jekyll-seo-tag
 future: true
 description: "The Amoral Sciences Club is the Undergraduate Philosophy Club at Cambridge University" # Site description and default description, also used in jekyll-seo-tag
