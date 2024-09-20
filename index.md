@@ -5,87 +5,14 @@ feature_text: |
   The undergraduate philosophy club at Cambridge
 feature_image: "/assets/schoolofathens.png"
 ---
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+Welcome to the Amoral Sciences Club, the undergraduate philosophy club of Cambridge! We aim to provide a platform for philosophical discussions amongst Cambridge students. We also hope to be an avenue through which students interested in Philosophy can network and socialise. 
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id est laborum.
+Most of [our meetings](https://www.amoralsciences.com/events "our meetings") are structured around a particular topic, such as the ethics of death, or the epistemology of disagreement. While we'll suggest some readings before each meeting, these are strictly optional. We aim for every meeting to be engaging to those with little to no background in the topic at hand, and of course, **non-philosophy students are most welcome** at the ASC.
 
-* An item
-* An item
-* An item
-* An item
-* An item
+We also provide undergraduates with opportunities to present their own philosophical research. Apart from academic meetings, we host more socially-oriented events every term. 
 
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+To join us, you simply need to fill in the form on this page. You may also want to follow us on our [facebook](https://www.facebook.com/amoralsciencesclub "facebook").
 
-> A simple blockquote
+See you around!
 
-## HTML Includes
-
-### Contact form
-
-{% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
-
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
-
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
-
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
-
-
-### Image includes
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
-
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+{% include figure.html image="/assets/photos/mscphoto.jpeg" caption="Our name derives from the Moral Sciences Club, Cambridge's influential philosophy discussion group (pictured here) which continues to host talks by esteemed speakers" width="500" height="300" %}
