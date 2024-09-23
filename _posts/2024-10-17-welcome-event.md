@@ -2,7 +2,7 @@
 title: Welcome Event
 categories:
 - Social
-feature_image: "https://picsum.photos/id/2451/200/300"
+feature_image: "./assets/photos/coffeecups.jpg"
 ---
 
 Join us for an evening of drinks, snacks, and light discussion at our welcome event! 

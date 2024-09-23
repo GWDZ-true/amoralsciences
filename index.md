@@ -11,7 +11,7 @@ Most of [our meetings](https://www.amoralsciences.com/events "our meetings") are
 
 We also provide undergraduates with opportunities to present their own philosophical research. Apart from academic meetings, we host more socially-oriented events every term. 
 
-To join us, you simply need to fill in the form on this page. You may also want to follow us on our [facebook](https://www.facebook.com/amoralsciencesclub "facebook").
+To join us, you simply need to fill in the form on this page. You may also want to follow us on our [Facebook](https://www.facebook.com/amoralsciencesclub "Facebook").
 
 See you around!
 
