@@ -99,7 +99,7 @@ title: "Amoral Sciences Club" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/asclogo.svg" # Site logo, also used in jekyll-seo-tag
 future: true
 description: "The Amoral Sciences Club is the Undergraduate Philosophy Club at Cambridge University" # Site description and default description, also used in jekyll-seo-tag
-url: "https://amoralsciences.com" # Site url, also used in jekyll-seo-tag
+url: "https://www.amoralsciences.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # repo: "https://github.com/daviddarnes/alembic"
 email: "dw644@cam.ac.uk"
