@@ -68,7 +68,7 @@ collections:
     description: "Check out our recent events!" # The post list page content
     feature_text: |
       ## All are welcome
-    feature_image: "/assets/schoolofathens.png"
+    feature_image: "/assets/photos/coffeecup.png"
 
 # 6. Jekyll collections settings
 defaults:
