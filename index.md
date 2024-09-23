@@ -2,7 +2,6 @@
 title: Welcome to the Amoral Sciences Club!
 feature_text: |
   ## Amoral Sciences Club
-  **Cambridge's Undergraduate Philosophy Society**
 feature_image: "/assets/schoolofathens.png"
 ---
 We provide a platform for students interested in Philosophy to socialise, discuss, and present their research. 
