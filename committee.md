@@ -2,7 +2,7 @@
 title: ASC Committee 2024/25
 feature_text: |
  ### Our Committee Members
-feature_image: "/assets/photos/cambridgephoto.jpg"
+feature_image: "/assets/schoolofathens.png"
 aside: false
 ---
 

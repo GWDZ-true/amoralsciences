@@ -2,7 +2,7 @@
 title: Welcome Event
 categories:
 - Social
-feature_image: "./assets/photos/coffeecups.jpg"
+feature_image: "./assets/schoolofathens.png"
 ---
 
 Join us for an evening of drinks, snacks, and light discussion at our welcome event! 

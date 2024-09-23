@@ -1,5 +1,5 @@
 ---
 layout: blog
 collectionpage: posts
-feature_image: "/assets/photos/tea.jpg"
+feature_image: "/assets/schoolofathens.png"
 ---
