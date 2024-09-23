@@ -2,10 +2,10 @@
 title: Welcome to the Amoral Sciences Club!
 feature_text: |
   ## Amoral Sciences Club
-  The undergraduate philosophy club at Cambridge
+  **Cambridge's Undergraduate Philosophy Society**
 feature_image: "/assets/schoolofathens.png"
 ---
-Welcome to the Amoral Sciences Club, the undergraduate philosophy club of Cambridge! We aim to provide a platform for philosophical discussions amongst Cambridge students. We also hope to be an avenue through which students interested in Philosophy can network and socialise. 
+We provide a platform for students interested in Philosophy to socialise, discuss, and present their research. 
 
 Most of [our meetings](https://www.amoralsciences.com/events "our meetings") are structured around a particular topic, such as the ethics of death, or the epistemology of disagreement. While we'll suggest some readings before each meeting, these are strictly optional. We aim for every meeting to be engaging to those with little to no background in the topic at hand, and of course, **non-philosophy students are most welcome** at the ASC.
 
