@@ -11,8 +11,8 @@ Most of [our meetings](https://www.amoralsciences.com/events "our meetings") are
 
 We also provide undergraduates with opportunities to present their own philosophical research. Apart from academic meetings, we host more socially-oriented events every term. 
 
-To join us, you simply need to fill in the form on this page. You may also want to follow us on our [Facebook](https://www.facebook.com/amoralsciencesclub "Facebook").
+To join us, you simply need to fill in [this form](https://forms.gle/SDwbGMb5GQrUHd768 "this form"). You may also want to follow us on [Facebook](https://www.facebook.com/amoralsciencesclub "Facebook").
 
 See you around!
 
-{% include figure.html image="/assets/photos/mscphoto.jpeg" caption="Our name derives from the Moral Sciences Club, Cambridge's influential philosophy discussion group (pictured here) which continues to host talks by esteemed speakers" width="500" height="300" %}
+{% include figure.html image="/assets/photos/mscphoto.jpeg" caption="Our name derives from the Moral Sciences Club, Cambridge's professional philosophy society" width="500" height="300" %}
