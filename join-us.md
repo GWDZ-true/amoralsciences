@@ -1,8 +1,5 @@
 ---
 title: Become a Member Today
-feature_text: |
- ### Join Us
-feature_image: "/assets/schoolofathens.png"
 aside: false
 ---
 
