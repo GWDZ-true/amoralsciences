@@ -11,6 +11,3 @@ Join us on Halloween for our first discussion group meeting of the year! We'll v
 - Venue: Christ's JCR TV Room
 
 Drinks, refreshments, and Halloween treats will be provided. Feel free to come in a costume if you'd like!
-
-{% include figure.html image="../assets/photos/ASC-Halloween.png" width="200" height="500" %}
-
