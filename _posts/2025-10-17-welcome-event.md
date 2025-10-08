@@ -6,6 +6,6 @@ categories:
 
 Join us for an evening of drinks, snacks, and light discussion at our welcome event! 
 
-- Date: 17 Oct 2024
-- Time: 7pm to 9pm
-- Venue: Christ's JCR Room
+- Date: 17 Oct 2025
+- Time: 4pm to 6pm
+- Venue: Christ's TV Room
